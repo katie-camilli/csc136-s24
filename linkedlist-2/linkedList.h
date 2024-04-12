@@ -17,7 +17,7 @@ class linkedList
   
   void insertAtEnd(int x);
   void print() const;
-  
+  //add some comments 
  private:
   node *head;
   node *tail;
